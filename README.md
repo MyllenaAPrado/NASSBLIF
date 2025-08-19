@@ -4,17 +4,6 @@ PyTorch code for "NASSBLIF: No-Reference Light Field Image Quality Assessment Vi
 
 ![Model Image](Model_NASSBLiF.png)
 
-
-### Performance of model compared to other state-of-the-art models
-
-| Metric | Time (s) | Parameters (M) | FLOPs (G) |
-| :--- | :---: | :---: | :---: |
-| DeeBLIF | 0.2237 | 16.65 | 8.04 |
-| GeoNRLFIQA | 0.0156 | 126.47 | 58.63 |
-| MAFBLiF | 3.1588 | 26.77 | 5.05 |
-| PVBLiF | 0.6678 | 2.85 | 3.42 |
-| NASSBLiF | 0.0182 | 23.01 | 3.27 |
-
 ## Setup
 
 ### Requirements
