@@ -37,6 +37,15 @@ python train.py
 
 You can modify the hyperparameters and dataset in the configuration file `config.py`.
 
+## Model performance compared to state of the art
+
+| Metric | Time (s) | Parameters (M) | FLOPs (G) |
+| :--- | :---: | :---: | :---: |
+| DeeBLIF | 0.2237 | 16.65 | 8.04 |
+| GeoNRLFIQA | 0.0156 | 126.47 | 58.63 |
+| MAFBLiF | 3.1588 | 26.77 | 5.05 |
+| PVBLiF | 0.6678 | 2.85 | 3.42 |
+| NASSBLiF | 0.0182 | 23.01 | 3.27 |
 
 ## Citation
 If you use this code in your research, please cite our paper:
