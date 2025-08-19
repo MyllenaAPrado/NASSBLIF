@@ -1,4 +1,9 @@
-# NASSBLiF
+
+<div align="center">
+  <h1>NASSBLiF</h1>
+</div>
+
+
 
 PyTorch code for "NASSBLIF: No-Reference Light Field Image Quality Assessment Via Neighborhood Attention and Scale Swin". The detail description of model and exepriment can be find in our paper: [[Link](https://ieeexplore.ieee.org/document/11084318)]
 
